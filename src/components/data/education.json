@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "roll":"Diploma in Computer Engineering",
+        "Name":"Sir Dr.M.S Gosavi, Polytechnic Institute Nashik | SPPU",
+        "start_end_date":"2019-2024 | Completed",
+        "per":"72.86%",
+        "imageSrc":"company/clg.jpg"
+    },
+    {
+        "id":2,
+        "roll":"S.S.C",
+        "Name":"Maharashtra State Board of Secondary and Higher-Secondary Education, Pune",
+        "start_end_date":"2019 Completed",
+        "per":"67.80%",
+        "imageSrc":"company/scl.jpg"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "td":1,
+        "title":"HTML",
+        "imageSrc":"skills/html-1.svg"
+    },
+    {
+        "title":"CSS",
+        "imageSrc":"skills/css.png"
+    },
+    {
+        "title":"BOOTSTRAP",
+        "imageSrc":"skills/bootstrap-5-1.svg"
+    },
+    {
+        "title":"JAVASCRIPT",
+        "imageSrc":"skills/javascript-1.svg"
+    },
+    {
+        "title":"JQUERY",
+        "imageSrc":"skills/jquery-4.svg"
+    }
+    , {
+        "title":"MYSQL",
+        "imageSrc":"skills/mysql.png"
+    }
+    , {
+        "title":"C PROGRAMING",
+        "imageSrc":"skills/c-1.svg"
+    }
+    , {
+        "title":"REACT",
+        "imageSrc":"skills/react-2.svg"
+    },
+    {
+        "title":"WIX",
+        "imageSrc":"skills/wix-svgrepo-com (2).svg"
+    }
+]
