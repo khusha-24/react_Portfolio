@@ -14,11 +14,12 @@ function contact() {
         <div className="contact-icon"
           data-aos="zoom-in"
           data-aos-duration="1000"
+
         >
-          <a href='http://www.google.com' target='blank' className="items"><IoCallOutline className='icons' /></a>
-          <a href='http://www.google.com' target='blank' className="items"><FaGithub className='icons' /></a>
-          <a href='http://www.google.com' target='blank' className="items"><FaWhatsapp className='icons' /></a>
-          <a href='http://www.google.com' target='blank' className="items"><FaLinkedin className='icons' /></a>
+          <a href='8767197723' target='blank' className="items"><IoCallOutline className='icons' /></a>
+          <a href='https://www.github.com' target='blank' className="items"><FaGithub className='icons' /></a>
+          <a href='' target='blank' className="items"><FaWhatsapp className='icons' /></a>
+          <a href='www.linkedin.com' target='blank' className="items"><FaLinkedin className='icons' /></a>
           <a href='mailto:avcharkushavarta@gmail.com' target='blank' className="items"><SiGmail className='icons' /></a>
         </div>
       </div>

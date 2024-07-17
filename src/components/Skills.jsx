@@ -9,7 +9,7 @@ function Skills() {
         <div className="row items" >
           {skills.map((data) => (
             <>
-              <div className="item col-sm-6 col-md-4 col-lg-3" key={data.id}
+              <div className="item col-sm-6 col-md-4 col-lg-3 " key={data.id}
                 data-aos="flip-left"
                 data-aos-duration="1000"
               >

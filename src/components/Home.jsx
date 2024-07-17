@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import pdf from '../pdf/resume.pdf';
+import pdf from '../pdf/kushavrta Reaume.pdf';
 import hero from './data/hero.json';
 import Typed from 'typed.js';
 
@@ -29,15 +29,15 @@ function home() {
     }, []);
     return (
         <>
-            <div className="container home" id='home'>
+            <div className=" home" id='home'>
                 <div className="left"
                     // data-aos="fade-right"
                     // data-aos-duration="1000"
                 >
                     <h2 ref={TypedElement} ></h2>
-                    <a href={pdf} download="resume.pdf" className="btn btn-outline-warning my-3">Download Cv</a>
+                    <a href={pdf} download="kushavrta Reaume.pdf" className="btn btn-outline-warning my-3">Download Cv</a>
                 </div>
-                <div className="right">
+                <div className="right order">
                     <div className="img"
                         // data-aos="fade-left"
                         // data-aos-duration="1000"

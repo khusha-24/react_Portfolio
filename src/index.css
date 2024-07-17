@@ -192,3 +192,32 @@ a {
   background-color: var(--bg-color);
   box-shadow: 0px 0px 5px yellow;
  }
+
+  
+ /* @media screen and (max-width:992px) {
+  body{
+    width: 220%;
+    border: 5px solid red;
+  }
+   .nav_bar, .projects-container{
+    width: 100% !important;
+   }
+   .nav_bar .left {
+    font-size: 10vw;
+   }
+   .nav_bar .right .nav_item{
+    font-size: 5vw;
+   }
+   .home{
+    margin-top: 150px;
+    width:"100%";
+    border: 5px solid red;
+    flex-direction: column; 
+   }
+   .home .left{
+    order: 1;
+   }
+   .card-wid{
+     width: 50%;
+   }
+ } */
